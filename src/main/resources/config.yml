@@ -1,0 +1,25 @@
+# MF_Bluemap Configuration
+
+bluemap:
+  # Y-level to render the claim overlay
+  y-level: 70.0
+  # Format for the claim label
+  label-format: "Faction: %faction%"
+
+# Faction Color Configuration
+# If MedievalFactions does not provide a specific color, these settings will be used.
+default-color:
+  fill-color: "#FFFFFF"
+  fill-opacity: 0.35
+  line-color: "#209cee"
+  line-opacity: 1.0
+
+# Optional: Override colors for specific factions by name
+# These colors correspond to the 'factions' settings requested (previously SECTOR)
+factions:
+  # Example:
+  # ExampleFaction:
+  #   fillColor: "#FF0000"
+  #   fillOpacity: 0.35
+  #   lineColor: "#FF0000"
+  #   lineOpacity: 1.0

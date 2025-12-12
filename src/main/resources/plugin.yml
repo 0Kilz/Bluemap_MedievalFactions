@@ -1,0 +1,7 @@
+name: MF_Bluemap
+version: 1.0
+main: com.kilz.mfbluemap.MF_Bluemap
+api-version: 1.21
+depend: [MedievalFactions, BlueMap]
+authors: [Kilz]
+description: Integration between MedievalFactions and BlueMap
