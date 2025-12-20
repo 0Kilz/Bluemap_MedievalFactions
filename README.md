@@ -6,7 +6,6 @@ A bridge plugin that integrates **MedievalFactions** with **BlueMap** to display
 - **Visual Claims**: Shows MedievalFactions claims on BlueMap.
 - **Dynamic Colors**: Automatically generates consistent colors for factions based on their ID (if no specific color is configured).
 - **Customizable**: Configure transparency, line width, label format, and specific faction colors in `config.yml`.
-- **Standalone**: Does not require RIVCore or other massive libraries.
 
 ## Dependencies & Compilation
 
